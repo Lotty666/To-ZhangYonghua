@@ -43,7 +43,7 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "致敬爱的老大",
+        story: "致敬爱的老大~",
     }
 };
 ```
